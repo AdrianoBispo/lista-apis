@@ -1,5 +1,5 @@
-# Lista de API's Públicas
-As APIs listadas são gratuitas ou com planos free, perfeitas para projetos pessoais, MVPs, estudos ou integração em apps reais. Essas APIs públicas são ferramentas incríveis que possibilitam a integração de dados e funcionalidades de grandes plataformas em seus projetos. Elas podem transformar uma aplicação simples em algo interativo, educativo e até divertido!
+# Lista de API's
+As API's listadas são gratuitas ou com planos free, perfeitas para projetos pessoais, MVPs, estudos ou integração em apps reais. Essas API's públicas são ferramentas incríveis que possibilitam a integração de dados e funcionalidades de grandes plataformas em seus projetos. Elas podem transformar uma aplicação simples em algo interativo, educativo e até divertido.
 
 **Confira algumas das APIs públicas mais populares e o que você pode construir com elas:**
 
